@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Asap', sans-serif;
+
+}
+
+.main {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.container {
+    padding: 10px 0 50px;
+    margin: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.btn-cell {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 16px;
+}
+
+.container
+    h1 {
+        color: #17a2b8; }
+    .table-history {
+        text-align: center;
+        vertical-align: middle;
+        thead {
+            vertical-align: middle;
+        }
+    }
+
