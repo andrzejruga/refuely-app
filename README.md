@@ -1,3 +1,8 @@
+This is an app created as a Coders Lab boot camp final project. It calculates both single and total fuel usage in your car based on data entered by user. It also calculates single and total refuel costs.
+It's written in React. Feel free to explore the code ;)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
